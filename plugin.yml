@@ -1,0 +1,10 @@
+name: Glowy
+version: 1.0
+description: Color your shit.
+author: ProjectBarks
+##authors: [Name, Name, Name] 
+#<nowiki>website: http://www.google.com/ </nowiki>
+
+main: me.bbark9.itemcolorer.Main
+database: false
+depend: [ProtocolLib]
